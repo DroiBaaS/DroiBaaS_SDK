@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "LiaojunTest1"
-s.version          = "0.0.1"
+s.version          = “0.0.2”
 s.summary          = "LiaojunTest1 反馈"
 s.description      = "LiaojunTest1"
 s.homepage         = "https://github.com/DroiBaaS"
